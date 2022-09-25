@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Ananda Dhakal
 author:
   name: GitHub User
   email: your-email@domain.com
@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -17,7 +17,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: jekyllrb
-    github:  jekyll
+    github: jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -57,5 +57,5 @@ minima:
 theme: minima
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
