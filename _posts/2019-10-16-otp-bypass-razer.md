@@ -47,7 +47,7 @@ Cookie: ...
 
 As previously stated, `<OTPToken>otp_token_value</OTPToken>` was used as a form of 2FA validator for all requests requiring 2FA.
 
-After completely understanding this design flow of the application, I got a sudden urge to change the user A's `otp_token_value` with user B's `otp_token_value`. To my surprise, it worked!
+After completely understanding this design flow of the application, I got a sudden urge to change the user A's `otp_token_value` with user B's `otp_token_value`. To my surprise, it worked! I was able to bypass OTP requirement by using another user's `otp_token_value`.
 
 ### Root Cause
 
