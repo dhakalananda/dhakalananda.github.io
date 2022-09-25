@@ -55,7 +55,7 @@ The backend indeed validated whether the OTP code provided was valid or not. But
 
 ### Mitigation
 
-Razer fixed the issue by validating whether the entered OTP token entered is his token or not.
+Razer fixed the issue by validating whether the entered OTP token entered is their token or not.
 
 **Bounty awarded:** $1,000
 
