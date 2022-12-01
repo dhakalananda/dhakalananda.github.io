@@ -25,7 +25,7 @@ A Cross Site Request Forgery was found on the account delete functionality. Due 
 - Affected Version: <=2.0.9
 - Patched Version: 2.1.0
 - CVSS Score: 7.5
-- CVE: CVE-2022-40192
+- CVE: [CVE-2022-40192][cve-2022-40192]
 
 **Vulnerability Discovery**
 
@@ -131,3 +131,4 @@ Thank you for reading!
 [cve-2022-40205]: https://patchstack.com/database/vulnerability/wpforo/wordpress-wpforo-forum-plugin-2-0-5-insecure-direct-object-references-idor-vulnerability-2
 [cve-2022-40632]: https://patchstack.com/database/vulnerability/wpforo/wordpress-wpforo-forum-plugin-2-0-5-cross-site-request-forgery-csrf-vulnerability-2
 [wpforo]: https://wpforo.com/
+[cve-2022-40192]: https://nvd.nist.gov/vuln/detail/CVE-2022-40192
