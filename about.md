@@ -15,7 +15,7 @@ Hi, I am Ananda Dhakal. About me in a sentence, I hack stuffs for fun and profit
 
 #### Awards
 
-- BountyBash - Most Critical Bug
+- BountyBash 2019 - Most Critical Bug
 
 #### CVE Assigned
 
