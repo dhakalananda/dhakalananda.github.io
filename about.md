@@ -13,9 +13,10 @@ Hi, I am Ananda Dhakal. I hack stuffs for fun and profit. I specialize at Applic
 - Linux proficiency
 - Python scripting
 
-#### Awards
+#### Awards and Certificates
 
 - BountyBash 2019 - Most Critical Bug
+- Offensive Security Web Expert (OSWE)
 
 #### CVE Assigned
 
