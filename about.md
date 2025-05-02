@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I am Ananda Dhakal. I hack stuffs for fun and profit. I specialize at Application Security and it is my prime area of interest.
+Hi, I am Ananda Dhakal (@dhakal_ananda). I hack stuffs for fun and profit. I work as a Vulnerability Researcher at Patchstack where I hack on the WordPress ecosystem on a daily basis. I am the Brand Ambassador of HackerOne for Nepal. In my free time, you'll find me diving into bug bounty programs and breaking them.
 
 #### Skills
 
