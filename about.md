@@ -20,6 +20,16 @@ ThreatCon & IWCON 2023: Diving into the Realm of Source Code Review
 - [Slides][code review slides]
 - [Video][code review video]
 
+SteelCon 2025: Hacking Stripe Integrations to Bypass E-Commerce Payments
+
+- Slides will be available soon
+
+#### Workshops
+
+NahamCon 2024: Acing WordPress Hacking Through Code Review
+
+- [Video][nahamcon-2024-workshop]
+
 #### Awards and Certificates
 
 - BountyBash 2019 - Most Critical Bug
@@ -39,3 +49,4 @@ ThreatCon & IWCON 2023: Diving into the Realm of Source Code Review
 [cves]: https://github.com/dhakalananda/cves
 [code review slides]: https://docs.google.com/presentation/d/10Rqpj2RMIhprXe6jbLI1i1A7okq8TWn1wTDV_vSZGOM
 [code review video]: https://www.youtube.com/watch?v=8TzCU01_K9s
+[nahamcon-2024-workshop]: https://youtu.be/MYsUhAgSgwc?t=4877
