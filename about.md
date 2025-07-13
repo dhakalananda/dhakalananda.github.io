@@ -20,6 +20,8 @@ ThreatCon & IWCON 2023: Diving into the Realm of Source Code Review
 - [Slides][code review slides]
 - [Video][code review video]
 
+SteelCon 2025: Hacking Stripe Integrations to Bypass E-Commerce Payments
+
 #### Awards and Certificates
 
 - BountyBash 2019 - Most Critical Bug
