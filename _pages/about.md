@@ -1,24 +1,22 @@
 ---
-layout: page
 title: About
 permalink: /about/
 ---
 
-Hi, I am Ananda Dhakal (@dhakal_ananda). I hack stuffs for fun and profit. I work as a Vulnerability Researcher at Patchstack where I hack on the WordPress ecosystem on a daily basis. I am the Brand Ambassador of HackerOne for Nepal. In my free time, you'll find me diving into bug bounty programs and breaking them.
+Hi, I am Ananda Dhakal. I work as a vulnerability researcher at Patchstack with the focus on WordPress security. In my free time, I love doing CVE reversing, and bug bounties.
 
 #### Skills
 
 - Black-box security testing: Web, Android, iOS, API
 - Source code auditing
-- Linux proficiency
-- Python scripting
+- CVE Reversing
 
 #### Conference Talks
 
 ThreatCon & IWCON 2023: Diving into the Realm of Source Code Review
 
-- [Slides][code review slides]
-- [Video][code review video]
+- [Slides][code review slides]{:target="_blank"}
+- [Video][code review video]{:target="_blank"}
 
 SteelCon 2025: Hacking Stripe Integrations to Bypass E-Commerce Payments
 
@@ -28,17 +26,19 @@ SteelCon 2025: Hacking Stripe Integrations to Bypass E-Commerce Payments
 - Offensive Security Web Expert (OSWE)
 - HackerOne Ambassador World Cup 2023 - Third Place
 
-#### Bug Bounty & Research Profiles:
+#### Bug Bounty & Research Profiles
 
-[HackerOne][hackerone] <br>
-[Bugcrowd][bugcrowd] <br>
-[Patchstack][patchstack]<br>
-[CVEs][CVEs]
+[HackerOne][hackerone]{:target="_blank"} <br>
+[Bugcrowd][bugcrowd]{:target="_blank"} <br>
+[Patchstack][patchstack]{:target="_blank"}<br>
+
+#### Misc
+
+[Patchstack Articles][patchstack blogs]{:target="_blank"}
 
 [hackerone]: https://hackerone.com/dhakal_ananda
 [bugcrowd]: https://bugcrowd.com/dhakal-ananda
 [patchstack]: https://patchstack.com/database/researcher/2df8ab85-c40b-40b1-a320-67f8b09302b0
-[cves]: https://github.com/dhakalananda/cves
 [code review slides]: https://docs.google.com/presentation/d/10Rqpj2RMIhprXe6jbLI1i1A7okq8TWn1wTDV_vSZGOM
 [code review video]: https://www.youtube.com/watch?v=8TzCU01_K9s
-[nahamcon-2024-workshop]: https://youtu.be/MYsUhAgSgwc?t=4877
+[patchstack blogs]: http://patchstack.com/author/ananda/
