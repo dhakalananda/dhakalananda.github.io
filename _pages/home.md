@@ -1,5 +1,6 @@
 ---
-layout: collection
+title: "Recent Posts"
+layout: posts
 permalink: /
 author_profile: true
 ---
