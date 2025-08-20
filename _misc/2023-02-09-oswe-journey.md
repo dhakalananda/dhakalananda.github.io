@@ -5,7 +5,7 @@ description: "My journey and review of AWAE/OSWE (WEB-300) by Offensive Security
 
 My journey and review of AWAE/OSWE (WEB-300) by Offensive Security.
 
-![OSWE Certificate](/assets/oswe-certificate.png)
+![OSWE Certificate](/assets/oswe/oswe-certificate.png)
 
 ## Backstory
 
@@ -71,7 +71,7 @@ XSS to RCE was fun. Using XSS to exploit a CSRF vulnerability that can lead to R
 
 I also loved the in-depth exploitation of blind SQLi in the course, and how SQLi can lead to RCE in certain cases. Blind SQLi has become one of the most exciting vulnerabilities for me to exploit in the white-box scenario. The meme below sums up my experience which I posted on [Twitter][twitter] as well.
 
-![SQLi Meme](/assets/sqli-meme.jpg)
+![SQLi Meme](/assets/oswe/sqli-meme.jpg)
 
 Having automated all the auth bypass + RCE in all of the exercises, I got my Python automation skills really sharpened. A huge codebase does not feel intimidating anymore. There are many more but you get it.
 
