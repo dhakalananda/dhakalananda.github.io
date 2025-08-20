@@ -31,7 +31,7 @@ A Cross Site Request Forgery was found on the account delete functionality. Due 
 
 The vulnerability was relatively easy to find. I navigated to a user's profile from the admin's account and inspected the element for the Delete Account functionality. It was a simple URL without any CSRF protection.
 
-![Inspect-Element](/assets/wpforo-inspect-element.png)
+![Inspect-Element](/assets/wpforo/wpforo-inspect-element.png)
 
 **Proof of Concept**
 
@@ -54,7 +54,7 @@ The vulnerability was relatively easy to find. I navigated to a user's profile f
 
 In the account edit section of wpForo, there is a feature where you can upload your avatar via image. A user can enter any URL as their image URL. A glimpse of account settings:
 
-![ImageURL](/assets/wpforo-image-url-upload.png)
+![ImageURL](/assets/wpforo/wpforo-image-url-upload.png)
 
 <center><i>Fig: wpForo account edit settings</i></center>
 
@@ -87,15 +87,15 @@ This section discusses about private/public functionality only [[CVE-2022-40206]
 
 After looking into the application and analyzing the source code side-by-side for quite a while, I came across a functionality that allows admin to mark topics private. The request looked like:
 
-![Mark-Private-Topic](/assets/wpforo-mark-topic-private.png)
+![Mark-Private-Topic](/assets/wpforo/wpforo-mark-topic-private.png)
 
 Looking at the `action` parameter in the above request, a request is sent to the server that calls the action `wpforo_private_ajax`. I looked for that action in source code of the plugin. It was hooked with the function `wpf_private`.
 
-![Source-Code-Private-Function](/assets/wpforo-public-private-topic.png)
+![Source-Code-Private-Function](/assets/wpforo/wpforo-public-private-topic.png)
 
 Analyzing the code of the function, I noticed that there were no access-control measures used. The function `wprivate` was executed to mark the topic as private. Access control might have been placed inside that function as well, so I had to analyze the code of `wprivate` as well.
 
-![wprivate-code](/assets/wpforo-wprivate-code.png)
+![wprivate-code](/assets/wpforo/wpforo-wprivate-code.png)
 
 There was no check whether the request sender had the sufficient privilege to make the action, making it vulnerable to IDOR.
 
@@ -116,7 +116,7 @@ If brute-forced all IDs, the exploitation of attack can lead to all topics being
 
 wpForo added permission check in the function (Line: 711 - 713).
 
-![IDOR-Fix](/assets/wpforo-idor-patch.png)
+![IDOR-Fix](/assets/wpforo/wpforo-idor-patch.png)
 
 _There is an extra line of code on line number 701 `wpforo_verify_nonce( 'wpforo_private_ajax')`. This successfully fixes the CSRF vulnerability._
 

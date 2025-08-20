@@ -18,7 +18,7 @@ Generally, I am more interested in bypassing security funtionalities implemented
 
 Analyzing the requests sent to the server during the whole process, I found that the flow of the requests passed looked like below:
 
-![Flowchart](/assets/razer-flowchart.svg)
+![Flowchart](/assets/razer/razer-flowchart.svg)
 
 After the code is requested and a valid code is successfully entered, the OTP token is generated and used as a form of 2FA authentication on all requests that require you to enter the 2FA for.
 
