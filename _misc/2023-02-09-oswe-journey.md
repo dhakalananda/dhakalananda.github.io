@@ -1,6 +1,7 @@
 ---
 title: "I Cracked OSWE at 18"
 description: "My journey and review of AWAE/OSWE (WEB-300) by Offensive Security."
+date: 2023-02-09
 ---
 
 My journey and review of AWAE/OSWE (WEB-300) by Offensive Security.

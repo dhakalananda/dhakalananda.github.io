@@ -1,6 +1,7 @@
 ---
 title: "wpForo Forum Security Advisories"
 description: "Technical analysis of multiple vulnerabilities found on wpForo Forum plugin in Wordpress."
+date: 2022-11-09
 ---
 
 Technical analysis of multiple vulnerabilities found on wpForo Forum plugin in Wordpress.

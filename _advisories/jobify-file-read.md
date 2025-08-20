@@ -1,6 +1,7 @@
 ---
 title: "Unauthenticated Arbitrary File Read in Jobify Theme"
 description: "Technical analysis of an unauthenticated file read vulnerability in Jobify theme <= 4.2.3"
+date: 2024-11-21
 ---
 
 Technical analysis of an unauthenticated file read vulnerability in Jobify theme <= 4.2.3

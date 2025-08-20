@@ -1,6 +1,7 @@
 ---
 title: "Razer OTP Bypass"
 description: "Technical analysis of how I was able to bypass OTP code requirement in Razer."
+date: 2019-10-16
 ---
 
 Technical analysis of how I was able to bypass OTP code requirement in Razer.
