@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I am Ananda Dhakal. I work as a vulnerability researcher at Patchstack with the focus on WordPress security. In my free time, I love doing CVE reversing, and bug bounties.
+Hi, I am Ananda Dhakal. I work as a vulnerability researcher at Patchstack with the focus on WordPress security. In my free time, I love doing CVE reversing and bug bounties.
 
 #### Skills
 
@@ -25,6 +25,7 @@ Pentester Nepal 2024: Team Nepal’s Journey of the AWC-2023 and Beyond
 SteelCon 2025: Hacking Stripe Integrations to Bypass E-Commerce Payments
 
 - [Slides][steelcon slides]{:target="_blank"}
+- [Video][Steelcon video]{:target="_blank"}
 
 #### Awards and Certificates
 
@@ -50,3 +51,4 @@ SteelCon 2025: Hacking Stripe Integrations to Bypass E-Commerce Payments
 [patchstack blogs]: http://patchstack.com/author/ananda/
 [awc slides]: /assets/talks/team-nepal-awc-2023-slides.pdf
 [steelcon slides]: /assets/talks/steelcon-2025-slides.pdf
+[steelcon video]: https://youtu.be/t1l8bbUc-zU
