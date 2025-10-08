@@ -27,6 +27,10 @@ SteelCon 2025: Hacking Stripe Integrations to Bypass E-Commerce Payments
 - [Slides][steelcon slides]{:target="_blank"}
 - [Video][Steelcon video]{:target="_blank"}
 
+BSides Canberra 2025: Catching WordPress 0-Days on the Fly
+
+- TBD
+
 #### Awards and Certificates
 
 - BountyBash 2019 - Most Critical Bug
