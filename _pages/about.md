@@ -33,7 +33,7 @@ BSides Canberra 2025: Catching WordPress 0-Days on the Fly
 
 #### Awards and Certificates
 
-- BountyBash 2019 - Most Critical Bug
+- BountyBash 2019 - Most Critical Bug Award
 - Offensive Security Web Expert (OSWE)
 - HackerOne Ambassador World Cup 2023 - Third Place
 
