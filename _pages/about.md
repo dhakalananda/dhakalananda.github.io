@@ -5,7 +5,7 @@ permalink: /about/
 
 Hi, I am Ananda Dhakal. I work as a vulnerability researcher at Patchstack with the focus on WordPress security. In my free time, I love doing CVE reversing and bug bounties.
 
-#### Conference Talks
+### Conference Talks
 
 ThreatCon & IWCON 2023: Diving into the Realm of Source Code Review
 
@@ -25,18 +25,18 @@ BSides Canberra 2025: Catching WordPress 0-Days on the Fly
 
 - TBD
 
-#### Media Coverage
+### Media Coverage
 
-[Nikkei Asia][nikkei]{:target="_blank"}
+- [Nikkei Asia][nikkei]{:target="_blank"}
 
-#### Awards and Certificates
+### Awards and Certificates
 
 - BountyBash 2019 - Most Critical Bug Award
 - Offensive Security Web Expert (OSWE)
 - HackerOne Ambassador World Cup 2023 - Third Place
 - HackerOne Ambassador World Cup 2024 - Elite Eight
 
-#### Bug Bounty & Research Profiles
+### Bug Bounty & Research Profiles
 
 [HackerOne][hackerone]{:target="_blank"} <br>
 [Bugcrowd][bugcrowd]{:target="_blank"} <br>
