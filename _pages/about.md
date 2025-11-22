@@ -21,9 +21,9 @@ SteelCon 2025: Hacking Stripe Integrations to Bypass E-Commerce Payments
 - [Slides][steelcon slides]{:target="_blank"}
 - [Video][Steelcon video]{:target="_blank"}
 
-BSides Canberra 2025: Catching WordPress 0-Days on the Fly
+BSides Canberra & DeepSec 2025: Catching WordPress 0-Days on the Fly
 
-- TBD
+- [Slides][deepsec slides]{:target="_blank"}
 
 ### Media Coverage
 
@@ -56,3 +56,4 @@ BSides Canberra 2025: Catching WordPress 0-Days on the Fly
 [steelcon slides]: /assets/talks/steelcon-2025-slides.pdf
 [steelcon video]: https://youtu.be/t1l8bbUc-zU
 [nikkei]: https://asia.nikkei.com/business/technology/demand-for-emerging-nation-bug-bounty-hunters-grows-in-rich-countries
+[deepsec slides]: /assets/talks/deepsec-2025-slides.pdf
