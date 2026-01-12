@@ -5,46 +5,46 @@ permalink: /about/
 
 Hi, I am Ananda Dhakal. I work as a vulnerability researcher at Patchstack with the focus on WordPress security. In my free time, I love doing CVE reversing and bug bounties.
 
-### Conference Talks
+## Conference Talks
 
 ThreatCon & IWCON 2023: Diving into the Realm of Source Code Review
 
-- [Slides][threatcon slides]{:target="_blank"}
-- [Video][threatcon video]{:target="_blank"}
+- [Slides][threatcon slides]{:target="\_blank"}
+- [Video][threatcon video]{:target="\_blank"}
 
 Pentester Nepal 2024: Team Nepal’s Journey of the AWC-2023 and Beyond
 
-- [Slides][awc slides]{:target="_blank"}
+- [Slides][awc slides]{:target="\_blank"}
 
 SteelCon 2025: Hacking Stripe Integrations to Bypass E-Commerce Payments
 
-- [Slides][steelcon slides]{:target="_blank"}
-- [Video][Steelcon video]{:target="_blank"}
+- [Slides][steelcon slides]{:target="\_blank"}
+- [Video][Steelcon video]{:target="\_blank"}
 
 BSides Canberra & DeepSec 2025: Catching WordPress 0-Days on the Fly
 
-- [Slides][deepsec slides]{:target="_blank"}
+- [Slides][deepsec slides]{:target="\_blank"}
 
-### Media Coverage
+## Media Coverage
 
-- [Nikkei Asia][nikkei]{:target="_blank"}
+- [Nikkei Asia][nikkei]{:target="\_blank"}
 
-### Awards and Certificates
+## Awards and Certificates
 
 - BountyBash 2019 - Most Critical Bug Award
 - Offensive Security Web Expert (OSWE)
 - HackerOne Ambassador World Cup 2023 - Third Place
 - HackerOne Ambassador World Cup 2024 - Elite Eight
 
-### Bug Bounty & Research Profiles
+## Bug Bounty & Research Profiles
 
-[HackerOne][hackerone]{:target="_blank"} <br>
-[Bugcrowd][bugcrowd]{:target="_blank"} <br>
-[Patchstack][patchstack]{:target="_blank"}<br>
+[HackerOne][hackerone]{:target="\_blank"} <br>
+[Bugcrowd][bugcrowd]{:target="\_blank"} <br>
+[Patchstack][patchstack]{:target="\_blank"}<br>
 
-#### Misc
+## Misc
 
-[Patchstack Articles][patchstack blogs]{:target="_blank"}
+[Patchstack Articles][patchstack blogs]{:target="\_blank"}
 
 [hackerone]: https://hackerone.com/dhakal_ananda
 [bugcrowd]: https://bugcrowd.com/dhakal-ananda
