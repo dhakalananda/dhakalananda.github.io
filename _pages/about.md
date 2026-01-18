@@ -35,6 +35,7 @@ BSides Canberra & DeepSec 2025: Catching WordPress 0-Days on the Fly
 - Offensive Security Web Expert (OSWE)
 - HackerOne Ambassador World Cup 2023 - Third Place
 - HackerOne Ambassador World Cup 2024 - Elite Eight
+- Bugv Live Hacking Event 2026 - Most Valuable Hacker
 
 ## Bug Bounty & Research Profiles
 
