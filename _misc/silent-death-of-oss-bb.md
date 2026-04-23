@@ -4,7 +4,7 @@ description: "Open-source bug bounty programs are on the verge of dying. Nobody 
 date: 2026-04-24
 ---
 
-My thoughts on the current state of open-source bug bounty along with a peek into Patchstack bug bounty program.
+Thoughts on the current state of OSS bug bounty and a peek into Patchstack BBP.
 
 ## Introduction
 
