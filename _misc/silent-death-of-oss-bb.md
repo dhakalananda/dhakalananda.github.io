@@ -102,9 +102,9 @@ Let's not forget that running Claude Code on an open-source repo is wayyy easier
 
 The pre-2026 era of bug bounty for open-source projects seems to be in a very bad position right now. Even if companies find all the valid bugs using the frontier models and only truly creative findings remain hidden, the slop factor will still be there.
 
-Each time a newer and more advanced LLM drops, the race to find that new bug begins. At this point, it looks like there is no point in having a BBP for open-source unless they are explicitly accepting high-value vulnerabilities only that could have direct impact on end-users or the service.
+Each time a newer and more advanced LLM drops, the race to find that new bug begins. At this point, it looks like there is no point in having a BBP for open-source unless the frontier models can't find any security issues in the codebase OR the programs are explicitly accepting high-value vulnerabilities only that could have direct impact on end-users or the service.
 
-This is going to be the case until LLMs plateau, if they do. Who knows if it gets to a point when it starts finding new vuln classes on its own. However, once it does plateau, the cost of finding vulns will get back to what it was. BUT, with the bar being set too high. In terms of bug bounty, things will look very scarce.
+This is going to be the case until LLMs growth plateau, if they do. Who knows if it gets to a point when it starts finding new vuln classes on its own. However, once it does plateau, the cost of finding vulns will get back to what it was. BUT, with the bar being set too high. In terms of bug bounty, things might look very scarce.
 
 ## Ending Thoughts
 
