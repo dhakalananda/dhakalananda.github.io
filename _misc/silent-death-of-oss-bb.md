@@ -90,7 +90,7 @@ Complex SQLi in very popular plugins that have been tested over and over again, 
 
 Up until this point, bug bounty hunters were rewarded for their time and expertise to uncover the security issues the company couldn't find internally. Bug bounty literally exists to cover the gap of time and attention from a limited pool of experts.
 
-However, for AI-generated **valid reports**, the financial incentive is no more there. The majority of AI-generated findings that bug hunters are reporting can be found by the internal team as well using the same tools.
+However, for AI-generated **valid reports** in open-source programs, the financial incentive is no more there. The majority of AI-generated findings that bug hunters are reporting can be found by the internal team as well using the same tools.
 
 After all, it's not only about the slops. For an average open-source bug bounty program, who would want to pay a bounty for someone asking Claude to find bugs when they themselves can do it?
 
