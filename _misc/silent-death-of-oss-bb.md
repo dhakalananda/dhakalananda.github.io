@@ -16,11 +16,11 @@ What we're seeing right now is the aftermath of the consecutive launches of Clau
 
 The first bug bounty program to get hit by the AI-security era was cURL. On January 26, the maintainer of the cURL bug bounty program published a blog post: [The end of cURL bug bounty][curl-end]. The primary reason for closure was simple: tons of crap that looked like valid submissions were being filed to the program. Due to the overload, they decided to close their bug bounty program.
 
-The community took this as a negative thing since the slops weren't adding any value to the bug bounty program.
+The real problems caused by slops started surfacing around this time.
 
-## The Series of Closure Continues
+## The Closure Continues
 
-What looked like an isolated incident quickly turned into a pattern. Fast forward three months. On April 2, NodeJS pushed out a blog post announcing the closure of its bug bounty program: [Security Bug Bounty Program Paused Due to Loss of Funding][nodejs-close]. But it wasn't just NodeJS. It was the program that funded NodeJS BBP.
+What looked like an isolated incident quickly turned into a pattern. Fast forward 2+ months. On April 2, NodeJS pushed out a blog post announcing the closure of its bug bounty program: [Security Bug Bounty Program Paused Due to Loss of Funding][nodejs-close]. But it wasn't just NodeJS. It was the program that funded NodeJS BBP.
 
 [Internet Bug Bounty][ibb], one of the most interesting bug bounty programs, funded by HackerOne, was paused. The scope covered some of the most used software in the world such as NodeJS, Ruby, Rust, OpenSSL, Nginx, Django, Apache Tomcat, and so on. The program had **paid out over $1.5M in bounties**.
 
