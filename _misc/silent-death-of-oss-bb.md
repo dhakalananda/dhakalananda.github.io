@@ -108,7 +108,9 @@ This is going to be the case until LLMs growth plateau, if they do. Who knows if
 
 ## Ending Thoughts
 
-Honestly, this is scary and exciting at the same time. The times have changed and there is no going back. Whatever the future might look like, one thing is clear: "Either adapt or die"
+It will be interesting to see what other programs and platforms do to tackle this problem and whether we might see more bug bounty programs closing up. On the counterpart, an insane amount of AI-generated code being pushed also raises a concern.
+
+Honestly, looking at how things unfold is scary and exciting at the same time. The times have changed and there is no going back. Whatever the future might look like, one thing is clear: "Either adapt or die"
 
 One thing to keep in mind is that technical skills are still equally needed. Otherwise, you'd just be one of those people contributing to the slops.
 
